@@ -24,7 +24,8 @@ npm install node.js
 
 # executar o projeto
 npm start
-Autor
+
+Autor :
 Matheus Vasconcelos
 
 https://www.linkedin.com/in/matheus-vasconcelos-9838b51b0/
