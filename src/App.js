@@ -27,9 +27,6 @@ function App() {
     // Todos os dias
   return parseFloat( quantidadeCaesPequenos * 30.0) + parseFloat(quantidadeCaesGrandes * 45.0);
   }
-  function calcularCustoTotal () {
-    
-    }
 
   useEffect(() =>{
     setResultado(calcularCustoTotal());
